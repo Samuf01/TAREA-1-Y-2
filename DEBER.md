@@ -195,6 +195,7 @@ Integrantes: Cela Lizz, Flores Samuel, Sánchez Isaac
 
 11) Seis décimos de coulomb pasan por un punto en 3 s. ¿Cuál es la corriente en amperes?
 
+![image](https://user-images.githubusercontent.com/94079321/141322726-a4bb8580-d760-4175-96b3-8afe594ff6a5.png)
 
 13) ¿Cuántos coulombs pasan por un punto en 0.15 s cuando la corriente es de 1.5 A?
 
