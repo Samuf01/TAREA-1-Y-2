@@ -69,6 +69,9 @@ Observar y estudiar los componentes de un circuito eléctrico, el comportamiento
               (a) (5x10^3)(4x10^5) 
               (b) (1.2x10^12)(3x10^2)
               (c) (2.2x10^-9)(7x10^-6)
+	      
+![image](https://user-images.githubusercontent.com/94079321/141334947-88808914-0dd9-436c-abe2-bf6c20768090.png)
+
               
   -Sección 1-3 Notación de ingeniería y prefijos métricos
  
@@ -77,12 +80,18 @@ Observar y estudiar los componentes de un circuito eléctrico, el comportamiento
                (a) 89,000 
                (b) 450,000
                (c) 12,040,000,000,000
+	      
+	![image](https://user-images.githubusercontent.com/94079321/141335353-e7989c17-7196-42d8-b339-f1b0728c645a.png)
+
                
 15) Exprese cada uno de los números siguientes en notación de ingeniería:
                
                (a) 0.000345
                (b) 0.025
                (c) 0.00000000129 
+	       
+	   ![image](https://user-images.githubusercontent.com/94079321/141335755-e96ef56f-027c-4d08-8ba3-f21defc843df.png)
+
                
 17) Sume los números siguientes y exprese cada resultado en notación de ingeniería:
                
@@ -90,12 +99,17 @@ Observar y estudiar los componentes de un circuito eléctrico, el comportamiento
                (b) (68x10^6)+(33x10^6)
                (c) (1.25x10^6)+(250x10^3)
               
-               
+   ![image](https://user-images.githubusercontent.com/94079321/141335825-c22c51ad-08ab-4fcb-a889-721bfe94b950.png)
+
+   
 19) Divida los números siguientes y exprese cada resultado en notación de ingeniería:
                
                (a) 50/(2.2x10^3)
                (b) (5x10^3)/(25x10^-6)
                (c) (560x10^3)/(660x10^3)
+	       
+	![image](https://user-images.githubusercontent.com/94079321/141335880-77117a31-6299-44bc-afd3-ed9cf676843f.png)
+ 
 
 21) Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.
 
@@ -166,10 +180,19 @@ Ulloa, A. (s. f.). 1.6 NOTACIÓN CIENTÍFICA. PDF. Recuperado 9 de noviembre de 
 Integrantes: Cela Lizz, Flores Samuel, Sánchez Isaac
 
 1. Objetivos 
-  1.1.	Objetivo General 
-  1.2. 	Objetivo Especifico 
+ 
+ 1.1.	Objetivo General 
+ 
+Reconocer la importancia de la resistencia, el voltaje y la corriente en los fundamentos de circuitos eléctricos, además de su estructura y aplicación
+ 
+ 1.2. 	Objetivo Especifico 
+ 
+ -Demostrar la importancia del correcto uso de las resistencias en los circuitos
+ 
 2.	Marco Teórico 
-3.	Resolución de Ejercicios del capítulo 2
+![image](https://user-images.githubusercontent.com/94079321/141333726-427df2e7-01d0-499f-aefe-c9e89481a559.png)
+
+4.	Resolución de Ejercicios del capítulo 2
 -SECCIÓN 2–2 Carga eléctrica
 1) ¿Cuál es la carga en coulombs del núcleo de un átomo de cobre?
 ![image](https://user-images.githubusercontent.com/94079321/141306840-acbf34b5-85ed-4521-ab0f-f80469458343.png)
@@ -211,34 +234,55 @@ Integrantes: Cela Lizz, Flores Samuel, Sánchez Isaac
 
 SECCIÓN 2–4 Fuentes de voltaje y de corriente              
 17) Enliste cuatro fuentes de voltaje comunes.
+
+![image](https://user-images.githubusercontent.com/94079321/141337163-a135e693-8c88-482e-a35f-ac69e34a9d14.png)
+
 19) ¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?
+
+![image](https://user-images.githubusercontent.com/94079321/141337212-273df99f-16b1-449b-a81b-c35375fcf138.png)
+
 SECCIÓN 2–5 Resistores
 21) Determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas
               
 	      (a) rojo, violeta, naranja, oro 
               (b) café, gris, rojo, plata
+	   
+	   ![image](https://user-images.githubusercontent.com/94079321/141337249-5f06c467-9113-4b7f-af1b-d4f93b52e305.png)
+
 23) Determine las bandas de color para cada uno de los siguientes valores de 4 bandas y 5% de
 tolerancia: 330 Ω, 2.2 kΩ, 56 kΩ, 100 kΩ, y 39 kΩ
+
+![image](https://user-images.githubusercontent.com/94079321/141337306-4da45d3f-3be9-4d1b-8668-e5eb2b041382.png)
+
 25) Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que
 cada resistor tiene una tolerancia del 5 por ciento.
              
 	      (a)0.47 Ω
               (b)270 kΩ
               (c)5.1 MΩ
+
+![image](https://user-images.githubusercontent.com/94079321/141337341-d5d6d4cf-4ea9-4f24-a2c5-610489c1f8b6.png)
+	      
+	      
 27) Determine las bandas de color para cada uno de los siguientes resistores de 5 bandas. Asuma que
 cada resistor tiene tolerancia del 1 por ciento.
               
 	      (a)14.7 kΩ
               (b)39.2 Ω
               (c)9.76 kΩ
+	      
+![image](https://user-images.githubusercontent.com/94079321/141337395-c702fbc2-a016-4b6d-a398-b9ed2333e1b5.png)
 
 29) ¿Cuál es la resistencia indicada por 4K7?
+
+![image](https://user-images.githubusercontent.com/94079321/141337437-8dade6d3-3e46-4ea5-8202-75cea9024cef.png)
 
 SECCIÓN 2–6 El circuito eléctrico
 31) Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición 2
       
 ![image](https://user-images.githubusercontent.com/94079321/141304787-c57801f3-89e4-4733-9579-26f70d29c71b.png)
 
+![image](https://user-images.githubusercontent.com/94079321/141337471-06695b37-48a8-479f-8271-7101ef3c9af9.png)
 
 33) En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas 
 al mismo tiempo. Determine cuál es este circuito.
@@ -299,4 +343,14 @@ través del resistor y la que sale de la batería.
 
 
 4. Conclusiones
-5. Bibliografía
+
+El voltaje es uno de los conceptos mas importantes puesto que se pueden aplicar a todos los aspectos de la ingeniería, ademas de que se debe tener una buena manipulacion de resistencias y fuentes de corriente para cumplir con las normas de seguridad establecidas.
+
+6. Bibliografía
+
+-Unsa.edu.ar. 2021. [online] Available at: http://www.unsa.edu.ar/srmrf/web/_Visitante/articulacion/MePreparo2011/3_NotacionCientifica.pdf [Accessed 1 June 2021]. Yann Picand, D., 2021. Conversión de unidades : definición de Conversión de unidades y sinónimos de Conversión de unidades (español). [online] Diccionario.sensagent.com.
+-Available at: http://diccionario.sensagent.com/Conversi%C3%B3n%20de%20unidades/es-es/ [Accessed 03 Noviembre 2021].
+
+-2021. [online] Available at: https://es.khanacademy.org/science/electrical-engineering/int [Accessed 03 Noviembre 2021].
+
+-Tirado, A. and perfil, V., 2021. conversión de unidades. [online] Aprendefisika.blogspot.com. Available at: http://aprendefisika.blogspot.com/p/conversion-de-unidades.html [Accessed 05 Noviembre 2021].
